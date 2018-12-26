@@ -1,2 +1,2 @@
-<h1>Market Stocking project developed with Java and MySQL</h1>
+<h1>"Market Stock Management" project developed with Java and MySQL</h1>
 
